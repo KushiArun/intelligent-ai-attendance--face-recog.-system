@@ -1,0 +1,23 @@
+streamlit
+
+
+#utilites
+numpy
+pandas
+#facerecoginition
+scikit-learn
+dlib-bin
+#python -m pip install 
+#dlib-19.22.99-cp310-cp310-win_amd64.whl
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+
+
+supabase
+bcrypt
+segno
+pillow
+
+librosa
+resemblyzer
