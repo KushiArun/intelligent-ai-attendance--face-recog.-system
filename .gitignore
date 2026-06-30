@@ -18,3 +18,9 @@ venv/
 
 # OS
 .DS_Store
+
+
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
