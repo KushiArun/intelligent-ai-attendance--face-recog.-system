@@ -10,9 +10,6 @@ SnapClass is an AI-powered attendance management system that automates attendanc
 
 https://snapclassfrontend.vercel.app/
 
-### 🚀 AI Attendance System
-
-https://snapclass.streamlit.app/
 
 ---
 
@@ -245,9 +242,7 @@ https://github.com/KushiArun/snapclassfrontend
 
 https://snapclassfrontend.vercel.app/
 
-**AI Attendance System**
 
-https://snapclass.streamlit.app/
 
 ---
 
